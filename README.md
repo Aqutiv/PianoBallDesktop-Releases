@@ -15,10 +15,11 @@ installs its own app. The preview is unsigned; Windows may show an
 unknown-publisher warning. Use the official download link above.
 
 Start with built-in sounds, or open **Settings → Sound library** to download
-recorded instruments. Choose **Everyone on this PC** to share one copy of the
-sounds, with administrator approval, or **Only me** for personal packs.
-Restart PianoBall to activate new sounds. Settings, progress and recordings remain
-private to each Windows account.
+recorded instruments. Grey instruments are not downloaded yet: select one and it
+fills with colour as it downloads, then plays straight away without a restart.
+Choose **Everyone on this PC** to share one copy of the sounds, with administrator
+approval, or **Only me** for personal packs. Settings, progress and recordings
+remain private to each Windows account.
 
 ## Updates and offline use
 
