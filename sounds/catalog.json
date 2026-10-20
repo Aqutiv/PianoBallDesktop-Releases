@@ -9696,108 +9696,658 @@
     {
       "id": "jazz-electric-guitar",
       "name": "Jazz Electric Guitar",
-      "version": "1.0.3204857166",
+      "version": "1.0.2364163286",
       "programs": [
         78
       ],
-      "minApp": "0.9.12",
-      "maxApp": "",
-      "bytes": 1138498,
-      "unpacked": 1135919,
-      "sha256": "be51aa9a11a989e4378439a71403325342e00151d05ca4243671ce12bc5b6396",
-      "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-jazz-electric-guitar-1.0.3204857166/jazz-electric-guitar-1.0.3204857166.pbpack",
       "files": [
         {
           "path": "jazz-electric-guitar/ATTRIBUTION.txt",
-          "size": 227,
-          "sha256": "821c47dcca684f672fdf2cfd71c79e690047e702e62228bbbc2f2a043f1e4fc3"
+          "size": 258,
+          "sha256": "1a81f274a93e2ac88e8db695a1cbf21d259de149e618d77e1f3a118aa90d0505"
         },
         {
-          "path": "jazz-electric-guitar/LICENSE.md",
-          "size": 3419,
-          "sha256": "5ad8d737e13c7f01f5b9674872a82a92b4ba253603e8ed14b9db12293550b4b9"
+          "path": "jazz-electric-guitar/LICENSE.txt",
+          "size": 7048,
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
         },
         {
-          "path": "jazz-electric-guitar/original-mapping.json",
-          "size": 5783,
-          "sha256": "e6010eccb14ff6af95014a07252788348f25b259c6deacfff8cbded768d85ac9"
+          "path": "jazz-electric-guitar/original-mapping.sfz.txt",
+          "size": 11015,
+          "sha256": "c044148c0fbd89c6a9fb9efa4a83f94c4f026721f7910993d2684a056f092e2e"
         },
         {
           "path": "jazz-electric-guitar/program.sfz",
-          "size": 95305,
-          "sha256": "488478d009b0e8785d3311de66f3198ca37796bba0edcaa729feef71145492c7"
+          "size": 11563,
+          "sha256": "a3441d5c695c4ae0f41b362ccf60200e1e191c5f8525943f77f53018d22937d1"
         },
         {
           "path": "jazz-electric-guitar/provenance.json",
-          "size": 184294,
-          "sha256": "d4c8f5a6e476432b32882d6ffdd16e1223c7fe4c83066d0aa21d6027ddaabe00"
+          "size": 32709,
+          "sha256": "6b2d3ea2f481735669b488a96a24c25ba5b234e3e115b125fbb6aaa46ec849ea"
         },
         {
-          "path": "jazz-electric-guitar/sample-0585.wav",
-          "size": 82460,
-          "sha256": "1c370fba886c4afe1f1a5b4d3dc1602f02e17884f4695b24286df1671995faf6"
+          "path": "jazz-electric-guitar/README.txt",
+          "size": 598,
+          "sha256": "5fd257f9e05c583419eccb0f33c3e9dc21f871ab79c7309142eddb98862d3f21"
         },
         {
-          "path": "jazz-electric-guitar/sample-0663.wav",
-          "size": 65066,
-          "sha256": "674c5201f62c49e023f49012b9039b689dc5defad6052f94ec6471841b8ad17c"
+          "path": "jazz-electric-guitar/samples/bridge/A#5_s6_01.flac",
+          "size": 254955,
+          "sha256": "888cc1fa9f075b48bc9958863cd5f01cadfc4cd63e7da177beb656049cede780"
         },
         {
-          "path": "jazz-electric-guitar/sample-0664.wav",
-          "size": 115852,
-          "sha256": "3172e2906b4da1bacde4ff7aa1c74bc2dd1ec4f98c3a26244c6a356f5ce63a62"
+          "path": "jazz-electric-guitar/samples/bridge/A#5_s6_02.flac",
+          "size": 246779,
+          "sha256": "3bb08d36264ef0f667a8c067c34f3bb475f376ff1bb05406b84720598499ca1c"
         },
         {
-          "path": "jazz-electric-guitar/sample-0665.wav",
-          "size": 63914,
-          "sha256": "bc9916dce57f59ea060ad8ddcd20c237c48436bc58a0af1bd329fde7ebb08097"
+          "path": "jazz-electric-guitar/samples/bridge/A#5_s6_03.flac",
+          "size": 259329,
+          "sha256": "46af8eeb942b9140f199ef7cd8a4465b2524b63f57291b8d7339be86441d8b2d"
         },
         {
-          "path": "jazz-electric-guitar/sample-0666.wav",
-          "size": 70444,
-          "sha256": "ce9e333985cf105dace073085b777d81c4a0f407054944377b17bee0d5c9d2c9"
+          "path": "jazz-electric-guitar/samples/bridge/A#5_s6_04.flac",
+          "size": 268290,
+          "sha256": "a0946dc0906fda1fcfa312f616f2801ffeacd1f3e599d2e016116fe2556c70f8"
         },
         {
-          "path": "jazz-electric-guitar/sample-0667.wav",
-          "size": 40314,
-          "sha256": "6bcb55552a1da577f2869d6f6767adfc5ed0646c79f779ed09a38b06238dfabe"
+          "path": "jazz-electric-guitar/samples/bridge/A2_s2_01.flac",
+          "size": 802965,
+          "sha256": "58bd8428510f8b30e4aa6c1475b0931e127cab6f3fe663237d828fdf3bc511d1"
         },
         {
-          "path": "jazz-electric-guitar/sample-0668.wav",
-          "size": 77674,
-          "sha256": "62aef120227db5b01657cc776bd807688e674aa75e1c56cd194d63d8d4255ff4"
+          "path": "jazz-electric-guitar/samples/bridge/A2_s2_02.flac",
+          "size": 802363,
+          "sha256": "303e6220c86cfb74b13b8ddca27d3b225c85152c68430c1a65baea1721a201a4"
         },
         {
-          "path": "jazz-electric-guitar/sample-0669.wav",
-          "size": 47758,
-          "sha256": "d5ea8898b4b33d5b8894e2bdb28fb20fc47fcc89d67550bc2dfe2a62d0f99a78"
+          "path": "jazz-electric-guitar/samples/bridge/A2_s2_03.flac",
+          "size": 898231,
+          "sha256": "043b27784c40ac47585024988eca301c270a41930f13a322f6915b2e6a207e73"
         },
         {
-          "path": "jazz-electric-guitar/sample-0670.wav",
-          "size": 113130,
-          "sha256": "b132926f624c1e2a52245246e7af3c56635305555f30910ddf6c3fbe60c20fb0"
+          "path": "jazz-electric-guitar/samples/bridge/A2_s2_04.flac",
+          "size": 831599,
+          "sha256": "ed5ed6ec225bf57feea0df4fa2c8f6846288202ff2a3e300cd8ec5bd7ca68e98"
         },
         {
-          "path": "jazz-electric-guitar/sample-0671.wav",
-          "size": 78762,
-          "sha256": "6a498ff2a833a02d368cb49556a274ce4db6ab03e7502fcb7b45d413b53e786f"
+          "path": "jazz-electric-guitar/samples/bridge/A2_s2_soft_01.flac",
+          "size": 961726,
+          "sha256": "5e621fc84f1d27fa71a98b2c5d698752f9a220eb0feca3777c8b8f3fb57390ac"
         },
         {
-          "path": "jazz-electric-guitar/sample-0672.wav",
-          "size": 36954,
-          "sha256": "a9ba548d0d6aa7daec0bc52b47b14b1dd215ab213e71f353294937c254f8c651"
+          "path": "jazz-electric-guitar/samples/bridge/A2_s2_soft_02.flac",
+          "size": 1180271,
+          "sha256": "a2d1ef59157a4428a12d12117ff52d786b33e845fb8b54c593f4711650560708"
         },
         {
-          "path": "jazz-electric-guitar/sample-0673.wav",
-          "size": 41746,
-          "sha256": "b7889457a08436f5fc90d152296f8391bcb33c9ccde97f786695923848f8b9e9"
+          "path": "jazz-electric-guitar/samples/bridge/A2_s2_soft_03.flac",
+          "size": 996336,
+          "sha256": "f899c619b5a6b0689ef4a5fb4e88e6d56651802f68469e9c17858078e553a2cc"
         },
         {
-          "path": "jazz-electric-guitar/SOURCE-CREDITS.csv",
-          "size": 12817,
-          "sha256": "cbec757614fa47d2ba71a2f1276bf010918261d94987cfb678352e9755e9bdd4"
+          "path": "jazz-electric-guitar/samples/bridge/A2_s2_soft_04.flac",
+          "size": 992360,
+          "sha256": "674778716bd79e4a82943aa65a8951c2d875fa1cc95026522d4010689ce2a893"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B3_s5_01.flac",
+          "size": 470914,
+          "sha256": "639aeafa233a1bf76bfe6a53b6a9a75765dde3880a8e1b154091029f104be695"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B3_s5_02.flac",
+          "size": 449741,
+          "sha256": "f03e7bb22b541f56531866504375fe51c06e5fcc4901794ceef8e9237c5f4a75"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B3_s5_03.flac",
+          "size": 477555,
+          "sha256": "3ab68522fb3771315d309ecb0fbfa48a5462923de6ea7a5a108e5fb46abdf5ce"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B3_s5_04.flac",
+          "size": 472687,
+          "sha256": "8af1f276c035b020432d5bf324037a285599436c40db8a6c0039f8d569153610"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B3_s5_soft_01.flac",
+          "size": 556977,
+          "sha256": "63beeab844b2766bda205073eb34cec2b87e1673ae689432b6e507f1e81e5035"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B3_s5_soft_02.flac",
+          "size": 528918,
+          "sha256": "8cadbc52c114907e80c6c0e542c35ec6810b2b303f4509d3973dabb17562c27e"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B3_s5_soft_03.flac",
+          "size": 546396,
+          "sha256": "39446a2b34bb2495f3aa11d934e0b5f05a0acb9c5f7577afe7bd2e5b904b3cff"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B3_s5_soft_04.flac",
+          "size": 594834,
+          "sha256": "dfc176b37a2abd5d98c37638c466016c304681dc82c21d858acee10d8530ae2b"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B4_s6_01.flac",
+          "size": 316321,
+          "sha256": "6b4925844e8086e2e1c11ac4b664f59d755be5d61322e8f6c374d117dc2a595e"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B4_s6_02.flac",
+          "size": 306565,
+          "sha256": "9228b8ab72792d9271d5eb727fd10f62063e0d5c24fdd68af0c5a819e62da69a"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B4_s6_03.flac",
+          "size": 287468,
+          "sha256": "a21ec2bbd7b48a50451400f16f2af5d3be1a5bf349fd8ef77db4700787f7e287"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/B4_s6_04.flac",
+          "size": 271711,
+          "sha256": "414a40a402b8cb3f276c91697b6c7aab7a63e02363bfb73458feb59d3970ac74"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#4_s5_01.flac",
+          "size": 339674,
+          "sha256": "c3bfb935350f3df851acf50f266f8e4fa8beae4e0439b628f849cc220ee60ae5"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#4_s5_02.flac",
+          "size": 331558,
+          "sha256": "bd502a4f0ea2eba79fd4ac3f0dfc6a165bb8bf6dc6a4ea7a316ac2f2426a81c8"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#4_s5_03.flac",
+          "size": 361731,
+          "sha256": "1f054992324b131bf895e4343c9284a67f7c3e7bf8436c7b9b85d9b4c9d3373a"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#4_s5_04.flac",
+          "size": 360374,
+          "sha256": "0850e6cb9fab6248c5cad26153087e9e51f28e004d8d11172dea74c8772c7069"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#4_s5_soft_01.flac",
+          "size": 351479,
+          "sha256": "1eede6d42f83af442e3ea4f7e15fd639689d3ecfc4112f3ac0ace27ad098a3e7"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#4_s5_soft_02.flac",
+          "size": 374738,
+          "sha256": "2dc6d1fd3579e0c84b4c84a2eb49aa2151f2eb653e9c6a2983b42151c335439f"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#4_s5_soft_03.flac",
+          "size": 346121,
+          "sha256": "d51330eee55caa2d591b1759ae164194758390588ecaa29b759b3d383cbf2095"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#4_s5_soft_04.flac",
+          "size": 376589,
+          "sha256": "ddffd3d912916eb762ee7107849fe8dbede7076e18c4a4a22ff7aa134d05013d"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#6_s6_01.flac",
+          "size": 175875,
+          "sha256": "6c19468e051dee96f80449b4e1cb7af39abb2e6813af974f7761af2a82d4689a"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#6_s6_02.flac",
+          "size": 177598,
+          "sha256": "1ad0e7234b0a3ee56740794271d578c47d112464228971d53ca8680e3b1e4b3a"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#6_s6_03.flac",
+          "size": 205392,
+          "sha256": "83e83f4129b3456f48705f7ddd7acf573625b96ba0c6c65ea9a4c1f989fa57bf"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C#6_s6_04.flac",
+          "size": 208762,
+          "sha256": "cc56a3066cab11b76df6f5be6f69eb972e6743bf00a3b961b34c689e45e34199"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C2_s1_01.flac",
+          "size": 806603,
+          "sha256": "723724b928bfcc42a64e8e2e3aada76cbfbb19b23855722b92fbb574fce23b2f"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C2_s1_02.flac",
+          "size": 794700,
+          "sha256": "625d4175f252083c23936d76e23efb9c93c4c7fb354b6d727d87aa6a137193f3"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C2_s1_03.flac",
+          "size": 782390,
+          "sha256": "155464aab338561a128bdcff4c2ea6a95fbe79c9dd2ee8c0dacca076df5712d8"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C2_s1_04.flac",
+          "size": 710577,
+          "sha256": "a366c6e69bef4266286d776277a9a53bd216a5ab17542dbb1e66dc7536891d4c"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C2_s1_soft_01.flac",
+          "size": 867104,
+          "sha256": "15351a2421c84d4f8ce00062c34d89cbe443a0577f69190e7b30ae5c06bd06d3"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C2_s1_soft_02.flac",
+          "size": 808927,
+          "sha256": "ec9d99ef1df7ce8c19cf8ff1722d5b3dc8e364039d60da180691e73c1a342c06"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C2_s1_soft_03.flac",
+          "size": 895526,
+          "sha256": "40404de37db0780af0aafd8e0d68a02bc2018fdfaa928bfc1ddce83f6d2fd499"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C2_s1_soft_04.flac",
+          "size": 860382,
+          "sha256": "1e2e6f3744c39df4d6e38078057d25ab69c6f16c4565197eb41317a9a22b8d8f"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C3_s2_01.flac",
+          "size": 493173,
+          "sha256": "94d1ce390280d0d2e579a7bf8362de32755b0745c7ae2c75ee866177f413c4c3"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C3_s2_02.flac",
+          "size": 499486,
+          "sha256": "62c24938d67edb491bee6e96ec3e98207a849bf3c4f1f7e059092a5d07fc10fc"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C3_s2_03.flac",
+          "size": 556001,
+          "sha256": "f983d02bd3ce426ac43abc4b475516fc525d3548c8708d69c8ee03a6b1560d71"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C3_s2_04.flac",
+          "size": 535445,
+          "sha256": "7f1bc910ac093b2a7d81d0701db5228a3bfbc4f522efa575c4facf0f2902c6c1"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C3_s2_soft_01.flac",
+          "size": 616938,
+          "sha256": "046d6f218be0d066da5e69e233e492c13d14a8a7c4d45504d92e12a6c65d47c9"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C3_s2_soft_02.flac",
+          "size": 639743,
+          "sha256": "096a112f301a414363796b2c091e427434c31bb55405c7c9fdab748bb0925f8a"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C3_s2_soft_03.flac",
+          "size": 620174,
+          "sha256": "7495b1fedd0f541027a8e31c72aaada9449c3e31d627f1b3c60ad5f72d5a82aa"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C3_s2_soft_04.flac",
+          "size": 612279,
+          "sha256": "f1f88b5c6f30abcff3fc4fae9565c0c4d96b167bf1c3d11e6909592f6bbbe472"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C5_s6_01.flac",
+          "size": 282022,
+          "sha256": "d59bbb7a936e7bfee3d2922fe06b6b156c761c087df5e3a37e35109c141ee33c"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C5_s6_02.flac",
+          "size": 267010,
+          "sha256": "466edd0e0b380dc5d9fc29b8bddf16efc1c98124d195352f80812a6f77d621e1"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C5_s6_03.flac",
+          "size": 301470,
+          "sha256": "3a92822e848a0eba5f443a6d9ae6aa58130bbeb63f7628d3b034b32fd647e98e"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C5_s6_04.flac",
+          "size": 301069,
+          "sha256": "242b2efd13c6b05b102cd9a9586d26123aa448fa62813fca44aedfd13a0d9491"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C5_s6_soft_01.flac",
+          "size": 314970,
+          "sha256": "2eb5ecdc42e57aca10f8111f083b537491813ef8ae5bca977a9bdfd61424a6bd"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/C5_s6_soft_02.flac",
+          "size": 311942,
+          "sha256": "7b8cd34815423d173d74d18f10881f1c7170b504d3f8905f7c54dc643eae72a0"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D3_s3_01.flac",
+          "size": 839365,
+          "sha256": "dd580a064a6d1eb354b69c7de5ff19651faf2fd43cff28253bba3aed92151853"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D3_s3_02.flac",
+          "size": 818882,
+          "sha256": "e39fc5f031a796c13226222804fdd15c0455fa79d75461e60eea5fabeaf394c7"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D3_s3_03.flac",
+          "size": 798346,
+          "sha256": "0528f15ffc535de2c042af6b854ce524d559f8f9a3afe574429383677beb324c"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D3_s3_04.flac",
+          "size": 798284,
+          "sha256": "9bd56c95ecf301d8f1607ca238a6bda30d2ff7ec61363a16e2d3c443a94c18fd"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D3_s3_soft_01.flac",
+          "size": 794757,
+          "sha256": "532bd627151a8d9c938fdb6228d0266cbb78d004da2b63738fecb11be1b6b5f6"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D3_s3_soft_02.flac",
+          "size": 806130,
+          "sha256": "d543c2bcbcdc115957212a9eff8d3231101ee6868661e5ebc90bbade1d03e0f7"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D3_s3_soft_03.flac",
+          "size": 785547,
+          "sha256": "d0807ab94e80b877f948ceef68913f9f95001cc4ab35a4d1f73f667b37491fdf"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D3_s3_soft_04.flac",
+          "size": 793389,
+          "sha256": "629b0e1aea54a4bc83f7fc94c6451532c8b0f21ba83e4df7f7fa19f9b9ef38c0"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D5_s6_01.flac",
+          "size": 245926,
+          "sha256": "4902833b42540db83d7a4a72b0ab982dd81e8dc2cf4899e490a5706cd6422d32"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D5_s6_02.flac",
+          "size": 244162,
+          "sha256": "66bd9899980dd19a64a5f9d677748e6b2c8b687ae763a2e8a632ff6e97511d12"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D5_s6_03.flac",
+          "size": 252544,
+          "sha256": "e268fc065777159f65f6fe3abf587710b7486faa9d293975d573a5eb90eb78a3"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/D5_s6_soft_01.flac",
+          "size": 234768,
+          "sha256": "ac151d50f1d59bd8707a3208ee38fb531b9f1b355f4f811e7adb34f737efed4d"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E2_s1_01.flac",
+          "size": 692035,
+          "sha256": "9e4479b15aeee5f50d519816f0af329b6fab2be4de70122f0f1d14d41617fa0f"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E2_s1_02.flac",
+          "size": 917288,
+          "sha256": "cd1967a3c0b9f1e8637e42dd14a36d65469258da5aadc0af786c949e34c90168"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E2_s1_03.flac",
+          "size": 684430,
+          "sha256": "097eea7ea3f9c74be13bf87a285a343096aabcc1429d6f87d1151fda20ded33d"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E2_s1_04.flac",
+          "size": 948478,
+          "sha256": "7d5be9ed84ace10d558d035d98e92243ea3617b6223801b7876348590fd404fb"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E2_s1_soft_01.flac",
+          "size": 990714,
+          "sha256": "7553fd930b426be7dfad48a5ec5229333aa52f8e245cfe11a97f192e5f06a812"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E2_s1_soft_02.flac",
+          "size": 1010827,
+          "sha256": "6846c975a4ae0ac5c3ba7adc6ee874c8490b663d5fb2bfdd5fd3ab56ccb7c8ef"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E2_s1_soft_03.flac",
+          "size": 856630,
+          "sha256": "99001c958d4c0831b08cc5afc69c0585e6f9c4c4f19107941b75d62b6b7b289f"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E2_s1_soft_04.flac",
+          "size": 897349,
+          "sha256": "f6c555cb0f787aa4e3ba2ccd95b1c87dd78622f62965b64ebe454a29f3ef0ac1"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E3_s3_01.flac",
+          "size": 458590,
+          "sha256": "7a8a817ad371d24b01e8b8c46a21af8a709917a253add99681f0a25cc28bf095"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E3_s3_02.flac",
+          "size": 501240,
+          "sha256": "de4dc6f0a6a2d2a1058c79bfdf7823002fc59eb914ac2cce112ab6203c2fcc00"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E3_s3_03.flac",
+          "size": 436865,
+          "sha256": "79967ef9b4d3cce46e9420ddf6b674e9724adb4e76620b6bb425422f59695b8d"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E3_s3_04.flac",
+          "size": 489394,
+          "sha256": "ec78e4c1e8fddb50851335041181748b67eac39e426c98045b71ed3553015856"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E3_s3_soft_01.flac",
+          "size": 475210,
+          "sha256": "691166cdde9fb32231dc17a15611237015b9bf0fdf8f42efc7b94639b54e5735"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E3_s3_soft_02.flac",
+          "size": 470064,
+          "sha256": "c55571535bcb17ebe08b069718b26da11de2787f612380e31b5da780cd7308c0"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E3_s3_soft_03.flac",
+          "size": 420571,
+          "sha256": "7e675f0ca16dda3c36471cdb0c1f2d8a62f3d381ef19d1a0cbcfc6963fb8e475"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E3_s3_soft_04.flac",
+          "size": 504045,
+          "sha256": "f03923d95a87e30f3144a748d51747a259aa28b273c085d00d51802a2903d766"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E4_s6_01.flac",
+          "size": 394032,
+          "sha256": "90bfb47b389d3a9c8fef45fb11e4ed7645a8e460cfaad1cad0b276200f3f90d9"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E4_s6_02.flac",
+          "size": 386949,
+          "sha256": "2e8434c9e1d2e8da5cfb7078af72a22a8ea88ab4bba923f9dd87fe2aed50752a"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E4_s6_03.flac",
+          "size": 391812,
+          "sha256": "c9db0b38c640f0898c9a669a0c8204251bc4c9b863d1947a7ddcc1c207c0be96"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E4_s6_04.flac",
+          "size": 389800,
+          "sha256": "fac0ab9cb10a443eb4c8ddbe003c203a6c95e616f45665d860f2e935d2a535ab"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E4_s6_soft_01.flac",
+          "size": 397902,
+          "sha256": "cd563a32593dc6a4b4d19e6cd591d8eaebcc42ad737b062d4c1b171adc5ab036"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E4_s6_soft_02.flac",
+          "size": 401768,
+          "sha256": "f6f07ca8eb191061fab3aeefae8e81ad55d3f2b84e1b677ac44d71d1fbfa883f"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E4_s6_soft_03.flac",
+          "size": 383613,
+          "sha256": "e4ead426f0a107550a09a1c0f298ca8f96f5c17904c9bdc63c03256f46dafa20"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/E4_s6_soft_04.flac",
+          "size": 405350,
+          "sha256": "997d8395e4a4b9e83d335d36dfb02bd8af76947ba47e1985be0b313f4fd7f24e"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F2_s1_01.flac",
+          "size": 906173,
+          "sha256": "d46c8027d8a60f133d87c325721ca839910bcc5034b41ed49a48836f16c68a97"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F2_s1_02.flac",
+          "size": 890673,
+          "sha256": "25aefb902a06ed23b19d454764e1f06f6b66009c20395a7d9cd46d43324e516c"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F2_s1_03.flac",
+          "size": 963642,
+          "sha256": "1df3431dac00b5172c872e0734bcdca2379d507a035ac713fb21b9f95e7edcbc"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F2_s1_04.flac",
+          "size": 870390,
+          "sha256": "40d15de98130bcc93ac3673e9ad54462cb0f1d665767357a9cc7795ccc53fdea"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F2_s1_soft_01.flac",
+          "size": 574587,
+          "sha256": "fc06f523269718844381e1613d0bf9a5ae9d262dee184696895c0fcb8321d5d9"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F2_s1_soft_02.flac",
+          "size": 1027242,
+          "sha256": "74b860bf74af63f932da06644de306ba0c1a11897899b2355eb2dfdd2ff65a51"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F2_s1_soft_03.flac",
+          "size": 990634,
+          "sha256": "fb95a23d79c20411839ff8d785e102e04dbb1d2ef20fdfd1c01bbce0b8f59e46"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F2_s1_soft_04.flac",
+          "size": 1015852,
+          "sha256": "3794f7f9fdddf5fc5222adb3743501bd401e21ae15e5e49f3ea6ca95c88db715"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F5_s6_01.flac",
+          "size": 240570,
+          "sha256": "a6866129f6e1a185e4895b3df762e3be28f3fdb999065509a1c28b5069b1b9c8"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F5_s6_02.flac",
+          "size": 318483,
+          "sha256": "25937b98edd163ef44f9f0f4b2de5553882f4027824e5caa5b19e4a95865a916"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F5_s6_03.flac",
+          "size": 265486,
+          "sha256": "b4c029d01b66520c0c724c773dbd35fd69059ad0597d02d82c6ea6db6034bc22"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/F5_s6_04.flac",
+          "size": 301292,
+          "sha256": "dfe482e15e7c454185225dc85250ba4af49b090d67adf4c7d7108b76e7024cf9"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G#5_s6_01.flac",
+          "size": 327621,
+          "sha256": "ba8e1311f8ed9b30ae4dc747107bbced41209ae36c774cb6ddc86f19fdb9808f"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G#5_s6_02.flac",
+          "size": 321969,
+          "sha256": "fb89c45b483abe166a67623d72119c8b9669467105da0738b7bb72561272556b"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G#5_s6_03.flac",
+          "size": 327678,
+          "sha256": "d6d774bae2a144f31d16a937d387c39b395d1da8723030297d6de9dc0067cad8"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G#5_s6_04.flac",
+          "size": 332898,
+          "sha256": "a28eb2d5f8c030f539cfa228ff83df967c127b025ca5545bbfa7f17b4d5c69e9"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G3_s4_01.flac",
+          "size": 615670,
+          "sha256": "e6a37b8ad544f2efc551df0b69bbba21c1e5263d49a80fbb29ab521d5d86f855"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G3_s4_02.flac",
+          "size": 617609,
+          "sha256": "d82b564302adae6f3d7b08bd5d02267c6257bad43afd29ce49b41278aa545aa5"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G3_s4_03.flac",
+          "size": 602453,
+          "sha256": "89f2977007b0b556c4c1551632abe7dd477fb5af2b131445b1e2cbb1fdcd8008"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G3_s4_04.flac",
+          "size": 603285,
+          "sha256": "93fbe1664bc600c422b424ec3ed300a25adae8e7a2f385a7db5ab1e5b25fa0ef"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G3_s4_soft_01.flac",
+          "size": 586791,
+          "sha256": "b2cc50acaebf9158508acccfa20e6ef8681b8b79a9bc88873c700840191d5958"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G3_s4_soft_02.flac",
+          "size": 626076,
+          "sha256": "85dcf0e8036e11c86d64199db545314ff6479941618f4fcce5a18e8ba3b651b0"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G3_s4_soft_03.flac",
+          "size": 608970,
+          "sha256": "9de07e715b505dd6bb28414946c6408b6134804a88539dd94473a07071837a52"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G3_s4_soft_04.flac",
+          "size": 572976,
+          "sha256": "17e51bb69a6ea2e954c732e1e67cb50a1038f6ddc4c9999aeea5766eac100b27"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G4_s6_01.flac",
+          "size": 358914,
+          "sha256": "9fa5c8a20ad04f24d3a83b0e53ebb55a0e26938b19bd079ba632992dde757eef"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G4_s6_02.flac",
+          "size": 389244,
+          "sha256": "d1f9f9024b56d1c7d146009308e3f71263404d6febeeb3f47ea5327bf0ba62b2"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G4_s6_03.flac",
+          "size": 342406,
+          "sha256": "93b9c5d34a7b783cf2378bfce11a3d4cd3c872a19ef452822efad759ffb27804"
+        },
+        {
+          "path": "jazz-electric-guitar/samples/bridge/G4_s6_04.flac",
+          "size": 399660,
+          "sha256": "fd40e0c7029b77dabacb0b717991775e3cf11078fcbd0f9f0bd5efa663490540"
         }
-      ]
+      ],
+      "minApp": "0.9.12",
+      "maxApp": "",
+      "bytes": 67662212,
+      "unpacked": 67642604,
+      "sha256": "ae4a9c2d07393dabacbd259881191e078b229033dfa02dda585708a4a0ab6351",
+      "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-jazz-electric-guitar-1.0.2364163286/jazz-electric-guitar-1.0.2364163286.pbpack"
     },
     {
       "id": "marimba",
@@ -10870,203 +11420,6 @@
           "path": "organ-percussive/samples/G#6R.wav",
           "size": 494478,
           "sha256": "9e9853cac9393ab7a2e86a1ef62c8929a128d3109656e9063ae165a936d2609e"
-        }
-      ]
-    },
-    {
-      "id": "organ-rock",
-      "name": "Rock Organ",
-      "version": "1.0.1753306979",
-      "programs": [
-        9,
-        46
-      ],
-      "minApp": "0.9.0",
-      "maxApp": "",
-      "bytes": 13639685,
-      "unpacked": 13634982,
-      "sha256": "181ab9870b1994895d551851beabe6ee1415a8acc90527fd2c95164f81f67447",
-      "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-organ-rock-1.0.1753306979/organ-rock-1.0.1753306979.pbpack",
-      "files": [
-        {
-          "path": "organ-rock/ATTRIBUTION.txt",
-          "size": 448,
-          "sha256": "8f5b16daec607d5beb7162ff2c7d4536816fce4220a833ec25ccd8047dd6293a"
-        },
-        {
-          "path": "organ-rock/program.sfz",
-          "size": 4382,
-          "sha256": "57498089636d80f0dbcffa489d04730f11f562519281dd58463b5d7c8aa6b2ab"
-        },
-        {
-          "path": "organ-rock/provenance.json",
-          "size": 6386,
-          "sha256": "67570f6b411e8e7030fb4a21251abdb283d60e36b05d4d889cd71f190c805117"
-        },
-        {
-          "path": "organ-rock/readme.txt",
-          "size": 754,
-          "sha256": "e2881ab65af6c53d14ebf4fa1fa04e1789570854740da8cec0ea9aee3ce6ea45"
-        },
-        {
-          "path": "organ-rock/samples/C2L.wav",
-          "size": 612254,
-          "sha256": "41acc7e6038b30594327f32e97c326eca5ba8020e25f81631c8d9c1c12be46f7"
-        },
-        {
-          "path": "organ-rock/samples/C2R.wav",
-          "size": 612254,
-          "sha256": "8cca7e43da0beee7f2c3eed8454faa4acb923f93b2fb0137c9992ae26aa0d559"
-        },
-        {
-          "path": "organ-rock/samples/C3L.wav",
-          "size": 446196,
-          "sha256": "4c80724f70b7a72c17aa319fc00ff38fdd599bd49e8a250368a29b3a4e2cc965"
-        },
-        {
-          "path": "organ-rock/samples/C3R.wav",
-          "size": 446196,
-          "sha256": "19371b3cb63d45a7a8eec445ce0fe3b403f59f9d108f0527032c6fe52014ac1b"
-        },
-        {
-          "path": "organ-rock/samples/C4L.wav",
-          "size": 477102,
-          "sha256": "2a0d392f19f3ed3fdaf262d95a9d87c8f67734cc868f92bf9a839164617c5398"
-        },
-        {
-          "path": "organ-rock/samples/C4R.wav",
-          "size": 477102,
-          "sha256": "3fbf9361e9341be7f928eb4f00bf27bc6ce7c973e9e0b2637d62495c96112270"
-        },
-        {
-          "path": "organ-rock/samples/C5L.wav",
-          "size": 329534,
-          "sha256": "632e3e84defbf870859e22b6747cc2f66e91f988a6b6ca8dc2fc6f2be34460b3"
-        },
-        {
-          "path": "organ-rock/samples/C5R.wav",
-          "size": 329534,
-          "sha256": "44ba4492fcd42ca95f0b8eec6601260344f6077e67d9f2ef0001f943d8fc1efd"
-        },
-        {
-          "path": "organ-rock/samples/C6L.wav",
-          "size": 396852,
-          "sha256": "61f1b27799bac6a604ec9484386440d6bad439544973800579af76a6df30ed6f"
-        },
-        {
-          "path": "organ-rock/samples/C6R.wav",
-          "size": 396852,
-          "sha256": "a227a666e1c8cc9a39d2929ab9be6a8d2c5b16ccbef2d8409f40058ed9221144"
-        },
-        {
-          "path": "organ-rock/samples/C7L.wav",
-          "size": 353540,
-          "sha256": "c3667b2a2077ae3d6f76f97694553ff4ecdf31ca83089f9e10ad416586d3cf00"
-        },
-        {
-          "path": "organ-rock/samples/C7R.wav",
-          "size": 353540,
-          "sha256": "1ddd474727bb96d75f9b12e5ada47a01488746942a8f4297afa96b076306e1e2"
-        },
-        {
-          "path": "organ-rock/samples/E2L.wav",
-          "size": 563322,
-          "sha256": "e10b8ae1d98f44c0c39fda83c3bb5c59c226b8224938acf73eeb980bb64df9f3"
-        },
-        {
-          "path": "organ-rock/samples/E2R.wav",
-          "size": 563322,
-          "sha256": "3979cc92b504c01fd71f5d4bfc6623f95fd4db78d1bf9e27b8992a9477ac8b35"
-        },
-        {
-          "path": "organ-rock/samples/E3L.wav",
-          "size": 393136,
-          "sha256": "eb492d172ca166518bd5dd941fb2af4875550691f8b2354920f19875b7adb0b7"
-        },
-        {
-          "path": "organ-rock/samples/E3R.wav",
-          "size": 393136,
-          "sha256": "572e36b42012eb39702b5dc2d57a127d1667e10d50a52cf69cc8ba0c745da665"
-        },
-        {
-          "path": "organ-rock/samples/E4L.wav",
-          "size": 477044,
-          "sha256": "477f7fa2fd7cf69dc81fa620c0c1d709c912b2d03f8ea041ce7b2bdac3db1259"
-        },
-        {
-          "path": "organ-rock/samples/E4R.wav",
-          "size": 477044,
-          "sha256": "7c03d8e72c1b77366dda700634b02bb478e6f026491198f0d8a866d387042a4f"
-        },
-        {
-          "path": "organ-rock/samples/E5L.wav",
-          "size": 378750,
-          "sha256": "53181098ec2cb4f3880c144d5e01c7220893ec667b03398a95c11dfecb9e48e6"
-        },
-        {
-          "path": "organ-rock/samples/E5R.wav",
-          "size": 378750,
-          "sha256": "7ac6fbd8124c6dca5b57961bb525c24483d0dc3686e6ade88484a139013ab926"
-        },
-        {
-          "path": "organ-rock/samples/E6L.wav",
-          "size": 290256,
-          "sha256": "284add69c04f3b97c2b78635b26b474dbe3de55548d2af23f3e189304573c10f"
-        },
-        {
-          "path": "organ-rock/samples/E6R.wav",
-          "size": 290256,
-          "sha256": "b08e8e73f250067b32d1462810b0a74e04941fde26e7b05f82438f698d1fd61d"
-        },
-        {
-          "path": "organ-rock/samples/G#2L.wav",
-          "size": 438244,
-          "sha256": "aedff62bac785e31542d3dc5b3d738f872c1d287e87a23e92ba5883e90055e3c"
-        },
-        {
-          "path": "organ-rock/samples/G#2R.wav",
-          "size": 438244,
-          "sha256": "fe40d008e73f3bbd26b966cbcf7a2c48f7140a3fd9f1b979d7ae5114b737527e"
-        },
-        {
-          "path": "organ-rock/samples/G#4L.wav",
-          "size": 456540,
-          "sha256": "8ff05a42a0668afb7b34dff4419abc6f56adcc994e0418ae6b0e0b91a17f0bb1"
-        },
-        {
-          "path": "organ-rock/samples/G#4R.wav",
-          "size": 456540,
-          "sha256": "05043de6954de89a741db02b3840caae45bc53d887e9a562e0a67397306b9ebb"
-        },
-        {
-          "path": "organ-rock/samples/G#5L.wav",
-          "size": 350010,
-          "sha256": "27721f4f100f672ecaa39ea87497364b444cc0d4b6de7f04623be74255ea41b7"
-        },
-        {
-          "path": "organ-rock/samples/G#5R.wav",
-          "size": 350010,
-          "sha256": "a9295cbe262be63a43a13288c5259bc02442af161cf3c3cd0b69767fe4f269f0"
-        },
-        {
-          "path": "organ-rock/samples/G#6L.wav",
-          "size": 377920,
-          "sha256": "17150a65ec9d33f32fb0a554b3c18344728cb94cbec5cf2ee7570f8a464af420"
-        },
-        {
-          "path": "organ-rock/samples/G#6R.wav",
-          "size": 377920,
-          "sha256": "fcb1e7a8501bbf607cd50815193b0f65b3e3b95f1b774d2b186ead0371571be7"
-        },
-        {
-          "path": "organ-rock/samples/G3L.wav",
-          "size": 470806,
-          "sha256": "5378660c1f72c95f1cc7f243de59af3f77912b59452626f03d2f643cf23b0876"
-        },
-        {
-          "path": "organ-rock/samples/G3R.wav",
-          "size": 470806,
-          "sha256": "1b923e778ad9b7d71ab98d4c9f2d5bc220d941561d9f0f6ccf13d949fc69eac3"
         }
       ]
     },
@@ -14644,7 +14997,7 @@
     {
       "id": "studio-drums",
       "name": "Studio Acoustic",
-      "version": "1.0.629446515",
+      "version": "1.0.1138856809",
       "programs": [
         43,
         49
@@ -14652,8 +15005,8 @@
       "files": [
         {
           "path": "studio-drums/ATTRIBUTION.txt",
-          "size": 3268,
-          "sha256": "9fc9d2785ee2b9627cb9dcc85872824e23172ca0e73542032f6445f9365278e5"
+          "size": 3459,
+          "sha256": "f61a592c7b66280dde0f37168f4a39f890fd34b8601cb2b972f52e2957134f07"
         },
         {
           "path": "studio-drums/AVL-SAMPLE-LICENSE.pdf",
@@ -16081,6 +16434,16 @@
           "sha256": "1969bb4a0383f678a07db86354d7667d80fe7db9db6f341e828c573b0eef9b5e"
         },
         {
+          "path": "studio-drums/HIGH-Q-LICENSE.md",
+          "size": 3419,
+          "sha256": "5ad8d737e13c7f01f5b9674872a82a92b4ba253603e8ed14b9db12293550b4b9"
+        },
+        {
+          "path": "studio-drums/HIGH-Q-SOURCE-CREDITS.csv",
+          "size": 12817,
+          "sha256": "cbec757614fa47d2ba71a2f1276bf010918261d94987cfb678352e9755e9bdd4"
+        },
+        {
           "path": "studio-drums/LICENSE-AVL.txt",
           "size": 22239,
           "sha256": "075dad5e5fc96c27014fabc269f4f5732909cffd178a486f546d982b6cf86b74"
@@ -16092,18 +16455,18 @@
         },
         {
           "path": "studio-drums/program-v4.sfz",
-          "size": 307865,
-          "sha256": "901bd1d86ef7f8383d9da2b276f93af3aa1b932798cb05793df8dee3a58721e1"
+          "size": 310037,
+          "sha256": "28d4adf3699a27ff1795151f88254e4fb8e7c5795304c65e0cc3b94e8cfd624a"
         },
         {
           "path": "studio-drums/program.sfz",
-          "size": 80419,
-          "sha256": "4ac3a5820922c6f27ce37a5aa2cad790d0d2e095b148650e58ba2f6fc31a5064"
+          "size": 80196,
+          "sha256": "f96da92c14883ad4719bad7f885adedba9567cde1b417976badbd0cb8463798b"
         },
         {
           "path": "studio-drums/provenance.json",
-          "size": 649250,
-          "sha256": "2cb8c4a74d857f224a420ee3111bb294c8e100804ea71bc4c05355fd64f5d990"
+          "size": 649588,
+          "sha256": "d05be5fa7a82394d959c828631097c8d3c560e3e4773c560438256484b3f4a68"
         },
         {
           "path": "studio-drums/Samples/36-Ludwig26Kick-1.flac",
@@ -16614,6 +16977,11 @@
           "path": "studio-drums/Samples/64-Maraca-5.flac",
           "size": 17751,
           "sha256": "0b68d4d318cc21d2436484a1c0153badb37556349af2e6532fbbc172acb58c01"
+        },
+        {
+          "path": "studio-drums/Samples/fluid-high-q.flac",
+          "size": 10951,
+          "sha256": "8bb11e9bc38362452077d9fa804f90139445b45bcd987be98bbed8be27269cd8"
         },
         {
           "path": "studio-drums/VCSL/Conga_HitN_v1_rr1_Sum.flac",
@@ -18298,10 +18666,10 @@
       ],
       "minApp": "0.9.14",
       "maxApp": "",
-      "bytes": 76504683,
-      "unpacked": 76386460,
-      "sha256": "c220ec4c17f3d9d1981c84c1f8c9a2c1faf0fc6cef1bbeeea7f87bb99c5c21bf",
-      "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-studio-drums-1.0.629446515/studio-drums-1.0.629446515.pbpack"
+      "bytes": 76534757,
+      "unpacked": 76416125,
+      "sha256": "6e742dfce4e8b8c5690bd6690c7c1bdc67221b0a0eb8e7cf7809929ab1edd31e",
+      "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-studio-drums-1.0.1138856809/studio-drums-1.0.1138856809.pbpack"
     },
     {
       "id": "synth-brass",
@@ -19933,6 +20301,203 @@
       "unpacked": 2442967,
       "sha256": "f4294b7b84e614b11b84c6454b84beac96d20bc2384238554d46066e5edc9c9d",
       "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-wurlitzer-1.0.1819423278/wurlitzer-1.0.1819423278.pbpack"
+    },
+    {
+      "id": "organ-rock",
+      "name": "Rock Organ",
+      "version": "1.0.1753306979",
+      "programs": [
+        9,
+        46
+      ],
+      "minApp": "0.9.0",
+      "maxApp": "",
+      "bytes": 13639685,
+      "unpacked": 13634982,
+      "sha256": "181ab9870b1994895d551851beabe6ee1415a8acc90527fd2c95164f81f67447",
+      "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-organ-rock-1.0.1753306979/organ-rock-1.0.1753306979.pbpack",
+      "files": [
+        {
+          "path": "organ-rock/ATTRIBUTION.txt",
+          "size": 448,
+          "sha256": "8f5b16daec607d5beb7162ff2c7d4536816fce4220a833ec25ccd8047dd6293a"
+        },
+        {
+          "path": "organ-rock/program.sfz",
+          "size": 4382,
+          "sha256": "57498089636d80f0dbcffa489d04730f11f562519281dd58463b5d7c8aa6b2ab"
+        },
+        {
+          "path": "organ-rock/provenance.json",
+          "size": 6386,
+          "sha256": "67570f6b411e8e7030fb4a21251abdb283d60e36b05d4d889cd71f190c805117"
+        },
+        {
+          "path": "organ-rock/readme.txt",
+          "size": 754,
+          "sha256": "e2881ab65af6c53d14ebf4fa1fa04e1789570854740da8cec0ea9aee3ce6ea45"
+        },
+        {
+          "path": "organ-rock/samples/C2L.wav",
+          "size": 612254,
+          "sha256": "41acc7e6038b30594327f32e97c326eca5ba8020e25f81631c8d9c1c12be46f7"
+        },
+        {
+          "path": "organ-rock/samples/C2R.wav",
+          "size": 612254,
+          "sha256": "8cca7e43da0beee7f2c3eed8454faa4acb923f93b2fb0137c9992ae26aa0d559"
+        },
+        {
+          "path": "organ-rock/samples/C3L.wav",
+          "size": 446196,
+          "sha256": "4c80724f70b7a72c17aa319fc00ff38fdd599bd49e8a250368a29b3a4e2cc965"
+        },
+        {
+          "path": "organ-rock/samples/C3R.wav",
+          "size": 446196,
+          "sha256": "19371b3cb63d45a7a8eec445ce0fe3b403f59f9d108f0527032c6fe52014ac1b"
+        },
+        {
+          "path": "organ-rock/samples/C4L.wav",
+          "size": 477102,
+          "sha256": "2a0d392f19f3ed3fdaf262d95a9d87c8f67734cc868f92bf9a839164617c5398"
+        },
+        {
+          "path": "organ-rock/samples/C4R.wav",
+          "size": 477102,
+          "sha256": "3fbf9361e9341be7f928eb4f00bf27bc6ce7c973e9e0b2637d62495c96112270"
+        },
+        {
+          "path": "organ-rock/samples/C5L.wav",
+          "size": 329534,
+          "sha256": "632e3e84defbf870859e22b6747cc2f66e91f988a6b6ca8dc2fc6f2be34460b3"
+        },
+        {
+          "path": "organ-rock/samples/C5R.wav",
+          "size": 329534,
+          "sha256": "44ba4492fcd42ca95f0b8eec6601260344f6077e67d9f2ef0001f943d8fc1efd"
+        },
+        {
+          "path": "organ-rock/samples/C6L.wav",
+          "size": 396852,
+          "sha256": "61f1b27799bac6a604ec9484386440d6bad439544973800579af76a6df30ed6f"
+        },
+        {
+          "path": "organ-rock/samples/C6R.wav",
+          "size": 396852,
+          "sha256": "a227a666e1c8cc9a39d2929ab9be6a8d2c5b16ccbef2d8409f40058ed9221144"
+        },
+        {
+          "path": "organ-rock/samples/C7L.wav",
+          "size": 353540,
+          "sha256": "c3667b2a2077ae3d6f76f97694553ff4ecdf31ca83089f9e10ad416586d3cf00"
+        },
+        {
+          "path": "organ-rock/samples/C7R.wav",
+          "size": 353540,
+          "sha256": "1ddd474727bb96d75f9b12e5ada47a01488746942a8f4297afa96b076306e1e2"
+        },
+        {
+          "path": "organ-rock/samples/E2L.wav",
+          "size": 563322,
+          "sha256": "e10b8ae1d98f44c0c39fda83c3bb5c59c226b8224938acf73eeb980bb64df9f3"
+        },
+        {
+          "path": "organ-rock/samples/E2R.wav",
+          "size": 563322,
+          "sha256": "3979cc92b504c01fd71f5d4bfc6623f95fd4db78d1bf9e27b8992a9477ac8b35"
+        },
+        {
+          "path": "organ-rock/samples/E3L.wav",
+          "size": 393136,
+          "sha256": "eb492d172ca166518bd5dd941fb2af4875550691f8b2354920f19875b7adb0b7"
+        },
+        {
+          "path": "organ-rock/samples/E3R.wav",
+          "size": 393136,
+          "sha256": "572e36b42012eb39702b5dc2d57a127d1667e10d50a52cf69cc8ba0c745da665"
+        },
+        {
+          "path": "organ-rock/samples/E4L.wav",
+          "size": 477044,
+          "sha256": "477f7fa2fd7cf69dc81fa620c0c1d709c912b2d03f8ea041ce7b2bdac3db1259"
+        },
+        {
+          "path": "organ-rock/samples/E4R.wav",
+          "size": 477044,
+          "sha256": "7c03d8e72c1b77366dda700634b02bb478e6f026491198f0d8a866d387042a4f"
+        },
+        {
+          "path": "organ-rock/samples/E5L.wav",
+          "size": 378750,
+          "sha256": "53181098ec2cb4f3880c144d5e01c7220893ec667b03398a95c11dfecb9e48e6"
+        },
+        {
+          "path": "organ-rock/samples/E5R.wav",
+          "size": 378750,
+          "sha256": "7ac6fbd8124c6dca5b57961bb525c24483d0dc3686e6ade88484a139013ab926"
+        },
+        {
+          "path": "organ-rock/samples/E6L.wav",
+          "size": 290256,
+          "sha256": "284add69c04f3b97c2b78635b26b474dbe3de55548d2af23f3e189304573c10f"
+        },
+        {
+          "path": "organ-rock/samples/E6R.wav",
+          "size": 290256,
+          "sha256": "b08e8e73f250067b32d1462810b0a74e04941fde26e7b05f82438f698d1fd61d"
+        },
+        {
+          "path": "organ-rock/samples/G#2L.wav",
+          "size": 438244,
+          "sha256": "aedff62bac785e31542d3dc5b3d738f872c1d287e87a23e92ba5883e90055e3c"
+        },
+        {
+          "path": "organ-rock/samples/G#2R.wav",
+          "size": 438244,
+          "sha256": "fe40d008e73f3bbd26b966cbcf7a2c48f7140a3fd9f1b979d7ae5114b737527e"
+        },
+        {
+          "path": "organ-rock/samples/G#4L.wav",
+          "size": 456540,
+          "sha256": "8ff05a42a0668afb7b34dff4419abc6f56adcc994e0418ae6b0e0b91a17f0bb1"
+        },
+        {
+          "path": "organ-rock/samples/G#4R.wav",
+          "size": 456540,
+          "sha256": "05043de6954de89a741db02b3840caae45bc53d887e9a562e0a67397306b9ebb"
+        },
+        {
+          "path": "organ-rock/samples/G#5L.wav",
+          "size": 350010,
+          "sha256": "27721f4f100f672ecaa39ea87497364b444cc0d4b6de7f04623be74255ea41b7"
+        },
+        {
+          "path": "organ-rock/samples/G#5R.wav",
+          "size": 350010,
+          "sha256": "a9295cbe262be63a43a13288c5259bc02442af161cf3c3cd0b69767fe4f269f0"
+        },
+        {
+          "path": "organ-rock/samples/G#6L.wav",
+          "size": 377920,
+          "sha256": "17150a65ec9d33f32fb0a554b3c18344728cb94cbec5cf2ee7570f8a464af420"
+        },
+        {
+          "path": "organ-rock/samples/G#6R.wav",
+          "size": 377920,
+          "sha256": "fcb1e7a8501bbf607cd50815193b0f65b3e3b95f1b774d2b186ead0371571be7"
+        },
+        {
+          "path": "organ-rock/samples/G3L.wav",
+          "size": 470806,
+          "sha256": "5378660c1f72c95f1cc7f243de59af3f77912b59452626f03d2f643cf23b0876"
+        },
+        {
+          "path": "organ-rock/samples/G3R.wav",
+          "size": 470806,
+          "sha256": "1b923e778ad9b7d71ab98d4c9f2d5bc220d941561d9f0f6ccf13d949fc69eac3"
+        }
+      ]
     }
   ]
 }
