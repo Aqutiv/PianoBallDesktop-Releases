@@ -18793,7 +18793,7 @@
     {
       "id": "grand",
       "name": "Grand, Felt & Bright Piano",
-      "version": "1.0.3843223093",
+      "version": "1.0.340598563",
       "programs": [
         1,
         6,
@@ -18807,14 +18807,19 @@
           "sha256": "3d69326634e0d8708a5ec67f6c7719e0f0143760e2bcd92d66f0929c05ae24e7"
         },
         {
+          "path": "grand/program-v5.sfz",
+          "size": 74404,
+          "sha256": "505232056d520f9215289f41a86da94d0ee991c5edabf6b668a0d8b0b7332a2a"
+        },
+        {
           "path": "grand/program.sfz",
           "size": 58529,
           "sha256": "bfae6d5039245ea08e97db679584545397bf061b6b5dff278cb5a1821b6757f4"
         },
         {
           "path": "grand/provenance.json",
-          "size": 117154,
-          "sha256": "170a33a071a242099d24fbcde486b5c6bbecc34ff9c10fefe90e750463111c95"
+          "size": 117672,
+          "sha256": "2b4a362d94b01725f50e6d516391e49cf04e429c32ab58181aa0d38c268fbf57"
         },
         {
           "path": "grand/readme.txt",
@@ -22032,14 +22037,19 @@
           "sha256": "fc843549adef89781c1c53cc20a0378494ea073c90ce8a0b1a3b9ce85c44d79b"
         },
         {
+          "path": "felt/program-v5.sfz",
+          "size": 80989,
+          "sha256": "e1d9a07c5d023bfce45d9b69ff63e65509ed423f50f0c53b2aee69b44d6cf20f"
+        },
+        {
           "path": "felt/program.sfz",
           "size": 65665,
           "sha256": "c7d78d3b3a7127f9376fb5c923ab58f77dcb20c48a3fb624a64b5ee45826631e"
         },
         {
           "path": "felt/provenance.json",
-          "size": 1985,
-          "sha256": "6c888c50edf4c16bf1080288b06c7231a5ca1c0ec32db5ad50af81f453c0e30d"
+          "size": 2658,
+          "sha256": "ca150b6b9f499208b9979085df6ed5cedcdfd5c2aca7741dcfdce7a9f034d359"
         },
         {
           "path": "bright-piano/ATTRIBUTION.txt",
@@ -22064,10 +22074,10 @@
       ],
       "minApp": "0.9.12",
       "maxApp": "",
-      "bytes": 747796975,
-      "unpacked": 747714372,
-      "sha256": "e2cae6a630f5c616c7c069e3a5be8298f40fe9e6815f4f4d87e14bbabd1b2ed6",
-      "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-grand-1.0.3843223093/grand-1.0.3843223093.pbpack"
+      "bytes": 747953799,
+      "unpacked": 747870956,
+      "sha256": "6360ab21cd845b8d9eca65001dff31672e321a0d5c09d587160a8733767d60b1",
+      "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-grand-1.0.340598563/grand-1.0.340598563.pbpack"
     },
     {
       "id": "guitar",
