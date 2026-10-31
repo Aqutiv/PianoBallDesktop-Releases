@@ -3563,6 +3563,172 @@
       "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-cello-1.0.212816694/cello-1.0.212816694.pbpack"
     },
     {
+      "id": "charang-lead",
+      "name": "Charang Lead",
+      "version": "1.0.2471873554",
+      "programs": [
+        189
+      ],
+      "files": [
+        {
+          "path": "charang-lead/LICENSE.md",
+          "size": 3419,
+          "sha256": "5ad8d737e13c7f01f5b9674872a82a92b4ba253603e8ed14b9db12293550b4b9"
+        },
+        {
+          "path": "charang-lead/original-mapping.json",
+          "size": 6654,
+          "sha256": "e0100f1e10cf8a608e998f7a9c89e519a3f623d289963af9b669ce1c59f5db5d"
+        },
+        {
+          "path": "charang-lead/program.sfz",
+          "size": 13301,
+          "sha256": "7a1d87627b62c428b51980a5d2485492f93e1e84a01dcd995b55d614c7797320"
+        },
+        {
+          "path": "charang-lead/provenance.json",
+          "size": 19648,
+          "sha256": "b00c4c08b8b1e659e28d25ccb12fe74f8db9033c401076b48125677b6d34a092"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0169.flac",
+          "size": 10093,
+          "sha256": "c6cb4b829d23ac35fd572e3434652d628763b733c60be03ee75199d1053966df"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0170.flac",
+          "size": 177,
+          "sha256": "4fac47309cd2bb88ad9b69029ed247fb4671f76c56f8fdea3ec739dd3088190b"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0171.flac",
+          "size": 224,
+          "sha256": "3ceefd1f5a76ad44accfd828c01f6141443c39b7c05d2072a8a6d9db7a945a12"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0172.flac",
+          "size": 2567,
+          "sha256": "54b2a830c14ddf9ab634c58c26ddcc184e812596fbc85192292764b888e26b4f"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0173.flac",
+          "size": 2439,
+          "sha256": "84556a1f7c01f9fe9c262f911f9b000a76f683a3bf0c35574260d06794f208d6"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0174.flac",
+          "size": 2005,
+          "sha256": "dfa17e133d39835fc158a997a509cd24285b8a871c885981265996bdb98342af"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0175.flac",
+          "size": 3626,
+          "sha256": "2977e6d9653b74056c8d137829f2fc654b6ed2a5fd5d014769f349f017e0c066"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0176.flac",
+          "size": 6390,
+          "sha256": "464be6ebe344f2db4d665352133fdd2c5ab3b64de8676993b6ab2a40435df92e"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0177.flac",
+          "size": 10224,
+          "sha256": "f7b0abb3c5740feda6f2e893a0ac6d8f3550ceea8c1a10061851581496a1343a"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0284.flac",
+          "size": 261,
+          "sha256": "d7fe4ed769cba14c3d1035ba99e9c62b6223469a02b65f149572005fa669fea9"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0342.flac",
+          "size": 820,
+          "sha256": "64fc811e5a567c9ebf7463efbca1e52f9ff9607f172b503e8e6c2b102a9b3c43"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0344.flac",
+          "size": 704,
+          "sha256": "6ebb34a23db458f735af0e327c9b1b3d3267c0d67b0e8db71816c5a54ea77223"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0346.flac",
+          "size": 431,
+          "sha256": "352843f2f5e63d3c462808b6424f82a3c7d7266d82e5f5d2814a0f0444b2ba2b"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0348.flac",
+          "size": 288,
+          "sha256": "09707ef2e2deaea3b8143f60878bc94cf88739e489d6734a5d80e1ee10ffcb27"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0676.flac",
+          "size": 9919,
+          "sha256": "5576581a6a18c518b8beb5c226f645f5e906499d1595c9fe4b6eb9c1486af547"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0677.flac",
+          "size": 9880,
+          "sha256": "8e9669321c995bc48bc3251bdb1c6c788fd36efca36a4f9d47ab1d82289b1bea"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0678.flac",
+          "size": 11097,
+          "sha256": "a041729ce9253d38945d2a9437fb82ccb0d92ac305c0fd89ff5c22a22ec5ef3c"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0679.flac",
+          "size": 8891,
+          "sha256": "74708297eb25dbcfcd7e5e5fea3df896d44fed39e552593d6a2630ad893b1b6f"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0680.flac",
+          "size": 8958,
+          "sha256": "1d3c8d0eac40e3e9ed2f067a846e0f72bdb0b91483b97e76bd938d4657b2f49d"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0681.flac",
+          "size": 8427,
+          "sha256": "18f52b81f47a3767614928615db7bbf5bace91c82cc09af6b6917634926952ab"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0682.flac",
+          "size": 9976,
+          "sha256": "4dd0d0d642ae913438bf46b2606fffc580e22887f97d9869ffff5348852036ab"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0683.flac",
+          "size": 9625,
+          "sha256": "f23f37736d4923d8bd399f228586ee6086a2a77141eadcd1038e20ec40e323e6"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0684.flac",
+          "size": 9662,
+          "sha256": "4c9568c90b27d262967877c1316ced482cfb495fb4952b8c691e9b5ad91c359a"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0685.flac",
+          "size": 9372,
+          "sha256": "f29fbec922dff5c46e93601edd854519e32fe58c68faf6c50fbf943b50dac3bc"
+        },
+        {
+          "path": "charang-lead/Samples/sample-0686.flac",
+          "size": 9475,
+          "sha256": "5fb29e7e4b595b674bc24becc89965ca5f6f8f92c69dc64b6bd28229e334a8c9"
+        },
+        {
+          "path": "charang-lead/SOURCE-CREDITS.csv",
+          "size": 12817,
+          "sha256": "cbec757614fa47d2ba71a2f1276bf010918261d94987cfb678352e9755e9bdd4"
+        }
+      ],
+      "minApp": "0.11.2",
+      "maxApp": "",
+      "bytes": 205541,
+      "unpacked": 201370,
+      "sha256": "b28fde2c690f324ae7b43bed27650611cb75b0174b3e82b64494e90b22ba16b0",
+      "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-charang-lead-1.0.2471873554/charang-lead-1.0.2471873554.pbpack"
+    },
+    {
       "id": "choir",
       "name": "Choir",
       "version": "1.0.3045367070",
@@ -24966,6 +25132,112 @@
       "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-melodic-tom-1.0.3793166490/melodic-tom-1.0.3793166490.pbpack"
     },
     {
+      "id": "metallic-pad",
+      "name": "Metallic Pad",
+      "version": "1.0.615246004",
+      "programs": [
+        190
+      ],
+      "files": [
+        {
+          "path": "metallic-pad/LICENSE.txt",
+          "size": 2317,
+          "sha256": "7b32efefdf95ce38a043799f0659853ddc00fbaa14d8c50f0aca16b9b8b405be"
+        },
+        {
+          "path": "metallic-pad/original-mapping.json",
+          "size": 4869,
+          "sha256": "125070c274a8509b39ec87bb072624fe740d9633158e6e2f222b3b22aa37ed44"
+        },
+        {
+          "path": "metallic-pad/program.sfz",
+          "size": 8842,
+          "sha256": "71d37c95c44b7fdc6c0b7bcd2c718224f67b74548eaf271cf9101f7cac3b3837"
+        },
+        {
+          "path": "metallic-pad/provenance.json",
+          "size": 12232,
+          "sha256": "7851acf0badb6b751f662e59d95ca5100f17e5ac7e185da4d7618eed6895b622"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0627.flac",
+          "size": 21331,
+          "sha256": "9933d33d2341825eb9312c2901450a158830e6b2102bd06d08af73aad3c2d01b"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0628.flac",
+          "size": 26782,
+          "sha256": "227e7f1f78bd31aeab581dc7ef6690764e788411882af03d94f0034775173645"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0629.flac",
+          "size": 45851,
+          "sha256": "68140d3dcc2ac088671282c023fa498148c6e4ee9b058048d463d38771c16c52"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0630.flac",
+          "size": 22329,
+          "sha256": "d8aabc8553973338b5a890c44e022aa561653746c3676aabcc33d5dc7b9e4159"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0631.flac",
+          "size": 24326,
+          "sha256": "9c56083430235557dbdb49666a925eec5dd3f4e26602997985c9af783f7b2f83"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0632.flac",
+          "size": 29799,
+          "sha256": "dfa549bb5a431153babe79e15be21987ae57c137cb94cbacf482dce0e80bd770"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0633.flac",
+          "size": 36089,
+          "sha256": "82458512b93d19954adcfba641e0b1d4b93334e7e4a1669102fe92a61b0e0bb6"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0634.flac",
+          "size": 11438,
+          "sha256": "465dbc1928d6f8686dd1bb152f1833dfd82d18ee46b45328a54657f34316cb2d"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0635.flac",
+          "size": 36997,
+          "sha256": "e96f153742fbf7b978843dd7fb5b67ebbf2209ac89006e9867d20b8626b07d84"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0636.flac",
+          "size": 28597,
+          "sha256": "b3e5947273b8f1d95e35f586a89edf04390c8e469d0d967212a3688cc3e692b7"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0677.flac",
+          "size": 20729,
+          "sha256": "fec6e7264423c7b3aff44d9dd20caba93c299601437017083226e7fc930fc873"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0678.flac",
+          "size": 26620,
+          "sha256": "3c9f41c71a6aa39e4221ce7e0c2d4e8665b9210bad2cbc04b7fb1824dd11e3dd"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0679.flac",
+          "size": 39984,
+          "sha256": "a7aa467e9fcb72e8879f58ac7817bd15836027843739b2a5104aacfa73611b6b"
+        },
+        {
+          "path": "metallic-pad/Samples/sample-0680.flac",
+          "size": 39368,
+          "sha256": "0ee8a916b738465a094cc87d1e87ae6fd5c0dde417603a898e00233033c48468"
+        }
+      ],
+      "minApp": "0.11.2",
+      "maxApp": "",
+      "bytes": 441049,
+      "unpacked": 438500,
+      "sha256": "ba00eaf436a5de14e2aab0a179879727432e587fe0c66d2b88b550116ba72320",
+      "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-metallic-pad-1.0.615246004/metallic-pad-1.0.615246004.pbpack"
+    },
+    {
       "id": "music-box-recorded",
       "name": "Music Box",
       "version": "1.0.3680756408",
@@ -28353,6 +28625,122 @@
           "files": {}
         }
       ]
+    },
+    {
+      "id": "soundtrack",
+      "name": "Soundtrack",
+      "version": "1.0.3907336406",
+      "programs": [
+        191
+      ],
+      "files": [
+        {
+          "path": "soundtrack/LICENSE.txt",
+          "size": 7048,
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+        },
+        {
+          "path": "soundtrack/original-mapping.sfz.txt",
+          "size": 1834,
+          "sha256": "2519e1fc73d7657b05abadff075d69efdb36356584c1f002efc3e05831ebc976"
+        },
+        {
+          "path": "soundtrack/program.sfz",
+          "size": 1919,
+          "sha256": "abad76d5e38883061f1471158b0bb58773fa1f532bcafc5d3569e04f32c6b854"
+        },
+        {
+          "path": "soundtrack/provenance.json",
+          "size": 2856,
+          "sha256": "f2d518a35c6d888041d828e6f6f9eac0e68ecba3f701beb17314b05da53d94e9"
+        },
+        {
+          "path": "soundtrack/README.txt",
+          "size": 546,
+          "sha256": "7052b9b9e13c3447a9ae306831b4914c9669be6114d573bc42e1d710022880e0"
+        },
+        {
+          "path": "soundtrack/samples/C2.flac",
+          "size": 807762,
+          "sha256": "7b9c325a8c640b9f2638f619ef083a275d5a084d619541e6018831b9b24cab3b"
+        },
+        {
+          "path": "soundtrack/samples/C3.flac",
+          "size": 667010,
+          "sha256": "a1747f3990dad5356e1892f1592e5794ae6a3faddd6244cba02d1e1533d40a70"
+        },
+        {
+          "path": "soundtrack/samples/C4.flac",
+          "size": 668564,
+          "sha256": "eb513d08ae70c353cc57f68bf9d6f0d2f1717c3cfb902772004d02eac3a1f180"
+        },
+        {
+          "path": "soundtrack/samples/C5.flac",
+          "size": 680859,
+          "sha256": "b28267d43275c279003624c2f0cc105f6f4e613418539427d2e75caa94c9065f"
+        },
+        {
+          "path": "soundtrack/samples/C6.flac",
+          "size": 673814,
+          "sha256": "36192d4d8bef0cdb4f8194d7f6efdb43017c2147387cda9febde37b7279e2022"
+        },
+        {
+          "path": "soundtrack/samples/E2.flac",
+          "size": 740363,
+          "sha256": "4885c4998b601e8c93b1ac86fd180abce3bfb5cee0bc2421dfeec5c99c7b79c9"
+        },
+        {
+          "path": "soundtrack/samples/E3.flac",
+          "size": 655160,
+          "sha256": "c0ce353f228782a75a53fcaaae09dcea7438995125fbceae283b299ea1db1b36"
+        },
+        {
+          "path": "soundtrack/samples/E4.flac",
+          "size": 681846,
+          "sha256": "512be21dc1e0e042e51ca71556f152e462dddee31cd104685a23498cef8b0045"
+        },
+        {
+          "path": "soundtrack/samples/E5.flac",
+          "size": 690553,
+          "sha256": "40ec6165a0e423eef3460db56bf02bc73f1c3ed4d28972b24916003a091ec9d6"
+        },
+        {
+          "path": "soundtrack/samples/E6.flac",
+          "size": 660825,
+          "sha256": "c2609aec262c64ac3e29b107c2f089b6772979df4eb0bbaec1cb02121b015379"
+        },
+        {
+          "path": "soundtrack/samples/G#2.flac",
+          "size": 668868,
+          "sha256": "aa6af635b878c5bc96d330549acc2d2b68149bb0cb64cfdf4245b5541a2b8bc5"
+        },
+        {
+          "path": "soundtrack/samples/G#3.flac",
+          "size": 685812,
+          "sha256": "3ae1dde9e39bb94e213e271a27df4d8d114798edd56f24a5f85135db8ecb6222"
+        },
+        {
+          "path": "soundtrack/samples/G#4.flac",
+          "size": 681980,
+          "sha256": "b39cfe878f9e302f1a9215a9e4480fb5a457ff0a0c1a28ee170d1c28a862afb2"
+        },
+        {
+          "path": "soundtrack/samples/G#5.flac",
+          "size": 688755,
+          "sha256": "17effb84cf6bb7e3f4acb7c03fc8961ca5b1bbda2ce89097de104cc0184b507a"
+        },
+        {
+          "path": "soundtrack/samples/G#6.flac",
+          "size": 793898,
+          "sha256": "0f6a6ff8fa327791f68653d67bebf146c038d86c65e902be51dd390d2de9db92"
+        }
+      ],
+      "minApp": "0.11.2",
+      "maxApp": "",
+      "bytes": 10462927,
+      "unpacked": 10460272,
+      "sha256": "e61f348f207bc28ed5a5c5205c4d5984703ff7e355e51ab97fcb2fa7ec9a3239",
+      "url": "https://github.com/Aqutiv/PianoBallDesktop-Releases/releases/download/sounds-soundtrack-1.0.3907336406/soundtrack-1.0.3907336406.pbpack"
     },
     {
       "id": "steel-drums",
